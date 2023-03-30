@@ -72,7 +72,8 @@
 - 영등포구
   - `정비`가 가장 많이 언급되었다. 서울에서도 비교적 노후된 구역이 많은 지역으로써 환경 정비, 개선에 많은 관심이 있음을 유추할 수 있다.
   - `복합`, `활성화`, `시장`, `센터`, `도심`, `조길형` 등 전통적인 시장과 현대적인 복합 문화 공간이 함께 하는 지역임을 알 수 있고 전반적으로 상업 지구 환경 개선에 관심이 있을것으로 보인다.
-     -<img width="500" alt="image" src="https://user-images.githubusercontent.com/30097727/228420827-8c1de6e2-1729-4b29-845f-94b1d532ab81.png">
+  
+  <img width="500" alt="image" src="https://user-images.githubusercontent.com/30097727/228420827-8c1de6e2-1729-4b29-845f-94b1d532ab81.png">
 
 
 <br>
